@@ -1,0 +1,8 @@
+{
+  "name": "SFs CRM Application",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8bc99fb6"
+}
